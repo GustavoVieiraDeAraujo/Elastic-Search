@@ -1,0 +1,244 @@
+{
+  "livros": [
+    {
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "ano_publicacao": 1984,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Case, um cowboy da informática, é contratado por um misterioso empregador para realizar um trabalho de hacking que pode mudar seu destino."
+    },
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "ano_publicacao": 1965,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Em um futuro distante, o jovem Paul Atreides se vê envolvido em intrigas políticas e conflitos em um planeta desértico chamado Duna."
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1954,
+      "genero": "fantasia",
+      "sinopse": "A jornada épica de Frodo Bolseiro para destruir um poderoso anel e salvar a Terra Média da escuridão."
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano_publicacao": 1997,
+      "genero": "fantasia",
+      "sinopse": "Harry descobre que é um bruxo e inicia sua jornada na Escola de Magia e Bruxaria de Hogwarts, enfrentando desafios e descobrindo seu destino."
+    },
+    {
+      "titulo": "O Assassinato de Roger Ackroyd",
+      "autor": "Agatha Christie",
+      "ano_publicacao": 1926,
+      "genero": "misterio",
+      "sinopse": "O detetive Hercule Poirot investiga um assassinato em uma pacata vila e descobre segredos chocantes entre os moradores."
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Isaac Asimov",
+      "ano_publicacao": 1951,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Um cientista prevê o colapso do Império Galáctico e trabalha para preservar o conhecimento humano em um futuro de instabilidade."
+    },
+    {
+      "titulo": "As Crônicas de Nárnia",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1950,
+      "genero": "fantasia",
+      "sinopse": "Crianças descobrem um mundo mágico através de um guarda-roupa e vivem aventuras incríveis em Nárnia."
+    },
+    {
+      "titulo": "O Cão dos Baskervilles",
+      "autor": "Arthur Conan Doyle",
+      "ano_publicacao": 1902,
+      "genero": "misterio",
+      "sinopse": "Sherlock Holmes e Dr. Watson investigam uma morte misteriosa em uma mansão assombrada por uma antiga maldição."
+    },
+    {
+      "titulo": "A Garota no Trem",
+      "autor": "Paula Hawkins",
+      "ano_publicacao": 2015,
+      "genero": "misterio",
+      "sinopse": "Uma mulher observa uma casa todos os dias durante sua viagem de trem e se vê envolvida em um mistério de desaparecimento."
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Em uma sociedade totalitária, Winston Smith desafia o controle do Estado e luta pela liberdade."
+    },
+    {
+      "titulo": "Orgulho e Preconceito",
+      "autor": "Jane Austen",
+      "ano_publicacao": 1813,
+      "genero": "romance",
+      "sinopse": "A história de Elizabeth Bennet e Mr. Darcy em uma sociedade inglesa do século XIX."
+    },
+    {
+      "titulo": "Jane Eyre",
+      "autor": "Charlotte Brontë",
+      "ano_publicacao": 1847,
+      "genero": "romance",
+      "sinopse": "A história de Jane Eyre, uma jovem órfã que se torna governanta e se apaixona por seu patrão, Mr. Rochester."
+    },
+    {
+      "titulo": "Um Amor Para Recordar",
+      "autor": "Nicholas Sparks",
+      "ano_publicacao": 1999,
+      "genero": "romance",
+      "sinopse": "A história de amor entre Landon e Jamie, marcada por tragédia e redenção."
+    },
+    {
+      "titulo": "A Culpa é das Estrelas",
+      "autor": "John Green",
+      "ano_publicacao": 2012,
+      "genero": "romance",
+      "sinopse": "Hazel e Augustus se conhecem em um grupo de apoio a jovens com câncer e vivem um intenso romance."
+    },
+    {
+      "titulo": "P.S. Eu Te Amo",
+      "autor": "Cecelia Ahern",
+      "ano_publicacao": 2004,
+      "genero": "romance",
+      "sinopse": "Após a morte do marido, Holly recebe cartas pré-planejadas que a ajudam a seguir em frente."
+    },
+    {
+      "titulo": "O Apanhador no Campo de Centeio",
+      "autor": "J.D. Salinger",
+      "ano_publicacao": 1951,
+      "genero": "literatura_contemporanea",
+      "sinopse": "A jornada de um adolescente, Holden Caulfield, em busca de significado e autenticidade."
+    },
+    {
+      "titulo": "Enclausurado",
+      "autor": "Ian McEwan",
+      "ano_publicacao": 2016,
+      "genero": "literatura_contemporanea",
+      "sinopse": "Narrado por um feto, o livro trata das reflexões sobre o mundo externo e questões sociais."
+    },
+    {
+      "titulo": "A Amiga Genial",
+      "autor": "Elena Ferrante",
+      "ano_publicacao": 2011,
+      "genero": "literatura_contemporanea",
+      "sinopse": "A história da amizade entre duas garotas, Elena e Lila, em um bairro de Nápoles."
+    },
+    {
+      "titulo": "Estação Onze",
+      "autor": "Emily St. John Mandel",
+      "ano_publicacao": 2014,
+      "genero": "literatura_contemporanea",
+      "sinopse": "Após um vírus devastar a civilização, um grupo de artistas viaja pelo mundo tentando preservar a cultura."
+    },
+    {
+      "titulo": "Os Testamentos",
+      "autor": "Margaret Atwood",
+      "ano_publicacao": 2019,
+      "genero": "literatura_contemporanea",
+      "sinopse": "Continuação de 'O Conto da Aia', a história se passa 15 anos após os eventos do primeiro livro."
+    },
+    {
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano_publicacao": 1943,
+      "genero": "infantil",
+      "sinopse": "As aventuras de um príncipe em sua jornada por diferentes planetas, ensinando lições de vida."
+    },
+    {
+      "titulo": "Alice no País das Maravilhas",
+      "autor": "Lewis Carroll",
+      "ano_publicacao": 1865,
+      "genero": "infantil",
+      "sinopse": "As aventuras de Alice ao seguir um coelho branco e entrar em um mundo fantástico."
+    },
+    {
+      "titulo": "Matilda",
+      "autor": "Roald Dahl",
+      "ano_publicacao": 1988,
+      "genero": "infantil",
+      "sinopse": "Matilda é uma garota inteligente e talentosa que enfrenta desafios em casa e na escola."
+    },
+    {
+      "titulo": "O Menino Maluquinho",
+      "autor": "Ziraldo",
+      "ano_publicacao": 1980,
+      "genero": "infantil",
+      "sinopse": "As travessuras e aventuras do Menino Maluquinho e sua turma."
+    },
+    {
+      "titulo": "O Médico",
+      "autor": "Noah Gordon",
+      "ano_publicacao": 1986,
+      "genero": "historico",
+      "sinopse": "A saga de um jovem britânico que se torna médico na Idade Média e viaja pelo mundo."
+    },
+    {
+      "titulo": "Os Pilares da Terra",
+      "autor": "Ken Follett",
+      "ano_publicacao": 1989,
+      "genero": "historico",
+      "sinopse": "A construção de uma catedral na Idade Média serve como pano de fundo para intrigas e dramas."
+    },
+    {
+      "titulo": "O Código Da Vinci",
+      "autor": "Dan Brown",
+      "ano_publicacao": 2003,
+      "genero": "historico",
+      "sinopse": "O professor Robert Langdon investiga um mistério envolvendo obras de arte e sociedades secretas."
+    },
+    {
+      "titulo": "A Sombra do Vento",
+      "autor": "Carlos Ruiz Zafón",
+      "ano_publicacao": 2001,
+      "genero": "historico",
+      "sinopse": "Daniel Sempere descobre um livro misterioso e se envolve em uma trama de segredos e vingança em Barcelona."
+    },
+    {
+      "titulo": "Os Últimos Dias de Pompéia",
+      "autor": "Edward Bulwer-Lytton",
+      "ano_publicacao": 1834,
+      "genero": "historico",
+      "sinopse": "O romance se passa nos dias que antecedem a erupção do Vesúvio e a destruição de Pompéia."
+    },
+    {
+      "titulo": "O Sobrinho do Mago",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1955,
+      "genero": "infantil",
+      "sinopse": "A origem de Nárnia é revelada quando dois amigos descobrem um novo mundo."
+    },
+    {
+      "titulo": "O Leão, a Feiticeira e o Guarda-Roupa",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1950,
+      "genero": "infantil",
+      "sinopse": "Quatro crianças entram em um guarda-roupa mágico e descobrem um mundo de magia e aventuras."
+    },
+    {
+      "titulo": "O Cavalo e Seu Menino",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1954,
+      "genero": "infantil",
+      "sinopse": "As aventuras de Shasta, um jovem fugitivo, e seu cavalo falante, Bree, em busca de liberdade."
+    },
+    {
+      "titulo": "Príncipe Caspian",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1951,
+      "genero": "infantil",
+      "sinopse": "O príncipe Caspian convoca os Pevensie para ajudar na luta pelo trono de Nárnia."
+    },
+    {
+      "titulo": "A Cadeira de Prata",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1953,
+      "genero": "infantil",
+      "sinopse": "Eustáquio Scrubb e Jill Pole são chamados para resgatar o príncipe desaparecido de Nárnia."
+    }
+  ]
+}
+
+

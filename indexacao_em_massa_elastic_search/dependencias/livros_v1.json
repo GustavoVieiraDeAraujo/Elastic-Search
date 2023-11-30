@@ -1,0 +1,76 @@
+{
+  "livros": [
+    {
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "ano_publicacao": 1984,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Case, um cowboy da informática, é contratado por um misterioso empregador para realizar um trabalho de hacking que pode mudar seu destino."
+    },
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "ano_publicacao": 1965,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Em um futuro distante, o jovem Paul Atreides se vê envolvido em intrigas políticas e conflitos em um planeta desértico chamado Duna."
+    },
+    {
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "ano_publicacao": 1954,
+      "genero": "fantasia",
+      "sinopse": "A jornada épica de Frodo Bolseiro para destruir um poderoso anel e salvar a Terra Média da escuridão."
+    },
+    {
+      "titulo": "Harry Potter e a Pedra Filosofal",
+      "autor": "J.K. Rowling",
+      "ano_publicacao": 1997,
+      "genero": "fantasia",
+      "sinopse": "Harry descobre que é um bruxo e inicia sua jornada na Escola de Magia e Bruxaria de Hogwarts, enfrentando desafios e descobrindo seu destino."
+    },
+    {
+      "titulo": "O Assassinato de Roger Ackroyd",
+      "autor": "Agatha Christie",
+      "ano_publicacao": 1926,
+      "genero": "misterio",
+      "sinopse": "O detetive Hercule Poirot investiga um assassinato em uma pacata vila e descobre segredos chocantes entre os moradores."
+    },
+    {
+      "titulo": "Fundação",
+      "autor": "Isaac Asimov",
+      "ano_publicacao": 1951,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Um cientista prevê o colapso do Império Galáctico e trabalha para preservar o conhecimento humano em um futuro de instabilidade."
+    },
+    {
+      "titulo": "As Crônicas de Nárnia",
+      "autor": "C.S. Lewis",
+      "ano_publicacao": 1950,
+      "genero": "fantasia",
+      "sinopse": "Crianças descobrem um mundo mágico através de um guarda-roupa e vivem aventuras incríveis em Nárnia."
+    },
+    {
+      "titulo": "O Cão dos Baskervilles",
+      "autor": "Arthur Conan Doyle",
+      "ano_publicacao": 1902,
+      "genero": "misterio",
+      "sinopse": "Sherlock Holmes e Dr. Watson investigam uma morte misteriosa em uma mansão assombrada por uma antiga maldição."
+    },
+    {
+      "titulo": "A Garota no Trem",
+      "autor": "Paula Hawkins",
+      "ano_publicacao": 2015,
+      "genero": "misterio",
+      "sinopse": "Uma mulher observa uma casa todos os dias durante sua viagem de trem e se vê envolvida em um mistério de desaparecimento."
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "ano_publicacao": 1949,
+      "genero": "ficcao_cientifica",
+      "sinopse": "Em uma sociedade totalitária, Winston Smith desafia o controle do Estado e luta pela liberdade."
+    }
+  ]
+}
+
+
